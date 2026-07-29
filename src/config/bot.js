@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "Blood leaves a trace. So does revenge", // required by Discord API, not shown in the client
         state: "Blood leaves a trace. So does revenge",     // this is what people actually see
-        type: 3,               // Custom
+        type: 4,               // Custom
       },
     ],
   },
