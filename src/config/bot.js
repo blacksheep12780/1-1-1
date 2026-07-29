@@ -141,7 +141,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "1 1 1",
       // Footer icon URL (null = no icon).
       icon: null,
     },
