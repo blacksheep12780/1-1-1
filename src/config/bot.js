@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Blood leaves a trace. So does revenge", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        state: "Blood leaves a trace. So does revenge",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
